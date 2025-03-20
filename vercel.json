@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://netease-api.kemiaosw.top/:match*"
+    }
+  ]
+}
